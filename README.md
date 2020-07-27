@@ -16,6 +16,7 @@ Following are the list of things taken care of:
 - API Logging
 - Backup automation and management
 - Laravel Telescope for debugging in local environment
+- TDD (Test Driven Development) setup using phpunit
 
 ## Want to do it yourself?
 Here are the video tutorials you can follow to do it by yourself.
